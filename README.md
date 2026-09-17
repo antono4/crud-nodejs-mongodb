@@ -1,3 +1,32 @@
-Last updated: 2026-09-18 03:33:27 WIB
-Last updated: 2026-09-18 03:35:45 WIB
-Last updated: 2026-09-18 06:02:18 WIB
+# crud-nodejs-mongodb
+
+Learning CRUD Data Using Node.js & MongoDB
+
+## 📋 Overview
+
+This repository contains **19 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-18 06:05:13 WIB*
